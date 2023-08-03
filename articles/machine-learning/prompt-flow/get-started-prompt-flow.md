@@ -147,7 +147,7 @@ Then you can check the run status and output of each node. The node statuses are
 
 ### Set and check flow output
 
-When the flow is complicated, instead of checking outputs on each node, you can set flow output and check outputs of multiple nodes in one place. Moreover, flow output helps:
+Instead of checking outputs on each node, you can set flow output and check outputs of multiple nodes in one place. Moreover, flow output helps:
 
 - Check bulk test results in one single table
 - Define evaluation interface mapping
